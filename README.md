@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rezkykzain?color=white&label=follow%20%40rezkykz&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frezkykz&screen_name=rezkykzain)
 
-## I am an avid runner, diver, and traveller with a side-job as engineer-turned-economist:
+# I am an avid runner, diver, and traveller with a side-job as engineer-turned-economist:
 
 - 🔭 I'm now pursuing graduate degree in Environmental and Reserouce Economics
 - 🌱 I’m currently learning R and Phyton with application in data science and econometrics techniques
