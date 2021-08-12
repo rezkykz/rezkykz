@@ -5,9 +5,9 @@
 # I am an avid runner, diver, and traveller with a side-job as engineer-turned-economist:
 
 - 🔭 I'm now pursuing graduate degree in Environmental and Reserouce Economics
-- 🌱 I’m currently learning R and Phyton with application in data science and econometrics techniques
+- 🌱 I’m currently learning R and Phyton with application in explanatory data analysis and econometrics techniques
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Publish one papers and contribute to open projects
+- 🥅 2021 Goals: Publish one paper and contribute to open projects
 - ⚡ Fun fact: I equally love eating whole durian and tomato in one sitting
 
 ### Connect with me:
